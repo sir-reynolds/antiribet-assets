@@ -1,0 +1,4 @@
+partial :
+  image
+  js
+  etc
