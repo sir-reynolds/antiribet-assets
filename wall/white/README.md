@@ -1,0 +1,1 @@
+agc wallpaper theme white
